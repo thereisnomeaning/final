@@ -1,0 +1,3 @@
+2024-05-05 22:49:47,940 - root - INFO - Tables are created
+2024-05-05 22:49:52,920 - root - INFO - New user_id 719301881 just connected
+2024-05-05 22:50:29,650 - root - INFO - User_id 719301881 ran out of tts tokens
